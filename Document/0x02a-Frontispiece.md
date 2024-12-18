@@ -11,7 +11,11 @@ The OWASP SCSVS and SCSTG are trusted by the following platform providers and st
 
 ## Authors
 
+- [Shashank](https://linkedin.com/in/shashank-in)
 
+- [Pratik Lagaskar](https://www.linkedin.com/in/pratik-lagaskar/)
+
+- [Nehal Pillai](https://www.linkedin.com/in/nehal-pillai/)
 
 <!-- \pagebreak -->
 
