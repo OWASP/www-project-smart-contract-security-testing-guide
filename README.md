@@ -19,7 +19,7 @@ We extend our gratitude to the organizations and individuals who have supported 
 
 The latest stable version is version 0.0.1 (dated September 2024), available here:
 
-* [OWASP Smart Contract Security Testing Guide 0.0.1 English (PDF)](https://github.com/OWASP/owasp-scstg/releases/download/v0.0.1/OWASP_Smart_Contract_Security_Testing_Guide-0.0.1_en.pdf)
+* [OWASP Smart Contract Security Testing Guide 0.0.1 English (PDF)](https://github.com/OWASP/owasp-scstg/releases/download/v0.0.1/OWASP_Smart_Contract_Security_Testing_Guide_v0.0.1.pdf)
 
 The master branch of this repository contains the "bleeding edge version," which may include in-progress changes or other updates.
 
