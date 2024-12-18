@@ -75,6 +75,6 @@ Smart contract auditors and security testers can use the SCSVS as a baseline for
 
 The following sections provide an overview of the SCSVS categories and their relevance to smart contract security.  
 
-- ![OWASP Smart Contract Security Verification Standard](https://scs.owasp.org/SCSVS/)  
+- [OWASP Smart Contract Security Verification Standard](https://scs.owasp.org/SCSVS/)  
 
 We encourage you to dive into the guide, experiment with its methodologies, and contribute to its ongoing evolution. Together, we can make the blockchain ecosystem more secure for everyone.  
