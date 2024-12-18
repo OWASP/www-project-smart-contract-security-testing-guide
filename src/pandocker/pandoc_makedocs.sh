@@ -79,7 +79,7 @@ echo "[*] Creating epub"
 ${PANDOC} \
   --metadata title="${TITLE}" \
   --metadata author="Shashank, Pratik Lagaskar and Nehal Pillai" \
-  --epub-cover-image=cover.pdf \
+  --epub-cover-image=cover.png \
   -o ${OUTPUT_BASE_NAME}.epub \
   ${METADATA} \
   ${CHAPTERS}

@@ -70,5 +70,5 @@ If you'd like to apply please contact the project leaders by sending an email. P
 
 ### Donators
 
-While both the SCSVS and the SCSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our donators for providing the funds to be able to hire technical editors. Note that their donation does not influence the content of the SCSVS or SCSTG in any way. The Donation Packages are described on our [OWASP Project page](https://mas.owasp.org/donate/ "OWASP SCS Donation Packages").
+While both the SCSVS and the SCSTG are created and maintained by the community on a voluntary basis, sometimes a little bit of outside help is required. We therefore thank our donators for providing the funds to be able to hire technical editors. Note that their donation does not influence the content of the SCSVS or SCSTG in any way. The Donation Packages are described on our [OWASP Project page](https://scs.owasp.org/donate/ "OWASP SCS Donation Packages").
 
