@@ -4,9 +4,9 @@ The rise of smart contracts has revolutionized the way agreements are executed, 
 
 ## How to Use the Smart Contract Security Project  
 
-The OWASP Smart Contract Security Project provides a structured approach to evaluating and improving the security of smart contracts. It begins with the [OWASP Smart Contract Security _Verification Standard_ (SCSVS)](https://github.com/OWASP/owasp-scsvs/), which outlines a comprehensive security model and provides a set of security requirements for smart contracts. These requirements are designed to be used across the entire development lifecycle, serving architects, developers, testers, and security professionals.  
+The OWASP Smart Contract Security Project provides a structured approach to evaluating and improving the security of smart contracts. It begins with the [OWASP Smart Contract Security Verification Standard (SCSVS)](https://github.com/OWASP/owasp-scsvs/), which outlines a comprehensive security model and provides a set of security requirements for smart contracts. These requirements are designed to be used across the entire development lifecycle, serving architects, developers, testers, and security professionals.  
 
-Once the SCSVS requirements have been identified for your use case, the next step is to apply the [OWASP Smart Contract Security _Testing Guide_ (SCSTG)](https://github.com/OWASP/owasp-scstg/). The SCSTG maps directly to the SCSVS requirements, offering practical testing methodologies and techniques. Together, these resources form a robust framework for smart contract security.  
+Once the SCSVS requirements have been identified for your use case, the next step is to apply the [OWASP Smart Contract Security Testing Guide (SCSTG)](https://github.com/OWASP/owasp-scstg/). The SCSTG maps directly to the SCSVS requirements, offering practical testing methodologies and techniques. Together, these resources form a robust framework for smart contract security.  
 
 ## What's Covered in the Smart Contract Security Guide  
 
