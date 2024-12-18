@@ -6,7 +6,7 @@
 
 The [OWASP Smart Contract Security Testing Guide (SCSTG)](https://scs.owasp.org/SCSTG/), which is part of the [OWASP Smart Contract Security (SCS)](https://scs.owasp.org/) flagship project, is a comprehensive manual covering the processes, techniques, and tools used during smart contract security analysis, as well as an exhaustive set of test cases for verifying the requirements listed in the [OWASP Smart Contract Verification Standard (SCSVS)](https://scs.owasp.org/SCSVS/), providing a baseline for complete and consistent security tests.
 
-The OWASP SCSVS and SCSTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more]().
+The OWASP SCSVS and SCSTG are trusted by the following platform providers and standardization, governmental and educational institutions. [Learn more](0x02b-SCSVS-SCSTG-Adoption.md).
 
 
 ## Authors
