@@ -35,4 +35,4 @@ If you find any inconsistencies or typos please open an issue in the OWASP SCSTG
 
 Copyright © The OWASP Foundation. This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/ "Creative Commons Attribution-ShareAlike 4.0 International License"). For any reuse or distribution, you must make clear to others the license terms of this work.
 
-<img src="Images/CC-License.png" width="150px" />
+<img src="Images/CC-license.png" width="150px" />
