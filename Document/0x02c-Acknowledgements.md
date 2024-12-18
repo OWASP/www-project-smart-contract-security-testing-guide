@@ -61,7 +61,7 @@ If you'd like to apply please contact the project leaders by sending an email. P
 
 ## Our SCS Advocates
 
-<img src="../../../assets/Images/Other/credshields-logo-b.png" width="350px" />
+<img src="Images/credshields-logo-b.png" width="350px" />
 
 [CredShields](https://credshields.com) has provided consistent high-impact contributions to the project and has successfully helped spread the word.
 
